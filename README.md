@@ -24,10 +24,6 @@ Welcome to the front-end repository for the <strong>Bon Voyage</strong> Travel L
 
    - Subscribe to our newsletter with just your email to receive exciting travel updates and offers.
 
-### 6. Responsive Design (Under Development):
-
-   - Please note that the page is currently <strong>not responsive</strong>, but work is underway to make it responsive as soon as possible.
-
 ## Tech Stack:
 
    - The front-end is built using HTML and CSS.
