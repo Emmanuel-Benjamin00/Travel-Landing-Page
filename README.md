@@ -30,7 +30,7 @@ Welcome to the front-end repository for the <strong>Bon Voyage</strong> Travel L
 
 ## Tech Stack:
 
-   - The front-end is built using modern HTML and CSS.
+   - The front-end is built using HTML and CSS.
 
 ## Usage:
 
